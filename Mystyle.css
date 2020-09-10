@@ -1,0 +1,16 @@
+
+body{
+    background-color: aqua;
+}
+
+h1{
+    color: aqua;
+}
+
+.container{
+
+    background-color: white;
+    border: 1px solid black;
+    padding-left: 50px;
+    padding-right: 50px;
+}
